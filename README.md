@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @palashkumer
-- 👀 I’m interested in Machine learning with application. 
-- 🌱 I’m currently learning Mern Stact Web Development.
-- 💞️ I’m looking for an opportunity to get Mern Stact Web Development job/intern.
+- 👋 Hi, I’m @palashkumer 
+- 🌱 I’m currently learning WordPress plugin development.
 - 📫 How to reach me: palashkumer237@gmail.com
 - ❤️ I love to sing song & cook 
 
