@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palashkumer 
-- 🌱 I’m currently learning WordPress plugin development.
+- 🌱 I’m currently learning PHP Laravel.
 - 📫 How to reach me: palashkumer237@gmail.com
-- ❤️ I love to sing song & cook 
+- ❤️ I love to sing songs & cook.
 
 <!---
 palashkumer/palashkumer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
